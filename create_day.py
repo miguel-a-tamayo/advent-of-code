@@ -14,7 +14,7 @@ import re
 import numpy as np
 
 def main(filename: str) -> None:
-    pass
+    return None
     
 if __name__=="__main__":
     main(sys.argv[1])
